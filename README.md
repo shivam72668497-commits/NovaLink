@@ -1,2 +1,1 @@
-# NovaLink
-NovaLink is Social media Pletform
+Shivam Rajbhar Full Stock Web Developer 
